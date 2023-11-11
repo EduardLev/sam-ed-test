@@ -3,7 +3,7 @@ My second line.
 
 func myFunc {
 	blah
-	blah
+	a separate thing, I changed this line here
 	blah
 }
 
